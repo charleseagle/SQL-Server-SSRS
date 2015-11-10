@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "List", "List\List.rptproj", "{366054CD-074E-4AB8-8056-387EA4BCC0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366054CD-074E-4AB8-8056-387EA4BCC0FF}.Debug|Default.ActiveCfg = Debug
+		{366054CD-074E-4AB8-8056-387EA4BCC0FF}.Debug|Default.Build.0 = Debug
+		{366054CD-074E-4AB8-8056-387EA4BCC0FF}.Debug|Default.Deploy.0 = Debug
+		{366054CD-074E-4AB8-8056-387EA4BCC0FF}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{366054CD-074E-4AB8-8056-387EA4BCC0FF}.DebugLocal|Default.Build.0 = DebugLocal
+		{366054CD-074E-4AB8-8056-387EA4BCC0FF}.Release|Default.ActiveCfg = Release
+		{366054CD-074E-4AB8-8056-387EA4BCC0FF}.Release|Default.Build.0 = Release
+		{366054CD-074E-4AB8-8056-387EA4BCC0FF}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

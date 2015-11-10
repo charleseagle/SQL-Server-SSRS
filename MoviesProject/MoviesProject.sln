@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "MoviesProject", "MoviesProject\MoviesProject.rptproj", "{812CA894-8467-4535-A7F0-7596BA194653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812CA894-8467-4535-A7F0-7596BA194653}.Debug|Default.ActiveCfg = Debug
+		{812CA894-8467-4535-A7F0-7596BA194653}.Debug|Default.Build.0 = Debug
+		{812CA894-8467-4535-A7F0-7596BA194653}.Debug|Default.Deploy.0 = Debug
+		{812CA894-8467-4535-A7F0-7596BA194653}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{812CA894-8467-4535-A7F0-7596BA194653}.DebugLocal|Default.Build.0 = DebugLocal
+		{812CA894-8467-4535-A7F0-7596BA194653}.Release|Default.ActiveCfg = Release
+		{812CA894-8467-4535-A7F0-7596BA194653}.Release|Default.Build.0 = Release
+		{812CA894-8467-4535-A7F0-7596BA194653}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

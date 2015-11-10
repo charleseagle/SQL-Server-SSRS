@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CreatingCustom", "CreatingCustom\CreatingCustom.rptproj", "{BE699AFB-45A0-4878-AC06-61D7AE32469B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE699AFB-45A0-4878-AC06-61D7AE32469B}.Debug|Default.ActiveCfg = Debug
+		{BE699AFB-45A0-4878-AC06-61D7AE32469B}.Debug|Default.Build.0 = Debug
+		{BE699AFB-45A0-4878-AC06-61D7AE32469B}.Debug|Default.Deploy.0 = Debug
+		{BE699AFB-45A0-4878-AC06-61D7AE32469B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BE699AFB-45A0-4878-AC06-61D7AE32469B}.DebugLocal|Default.Build.0 = DebugLocal
+		{BE699AFB-45A0-4878-AC06-61D7AE32469B}.Release|Default.ActiveCfg = Release
+		{BE699AFB-45A0-4878-AC06-61D7AE32469B}.Release|Default.Build.0 = Release
+		{BE699AFB-45A0-4878-AC06-61D7AE32469B}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Matrix", "Matrix\Matrix.rptproj", "{4E7CCF7D-D202-4D94-935B-7DE268254D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E7CCF7D-D202-4D94-935B-7DE268254D7C}.Debug|Default.ActiveCfg = Debug
+		{4E7CCF7D-D202-4D94-935B-7DE268254D7C}.Debug|Default.Build.0 = Debug
+		{4E7CCF7D-D202-4D94-935B-7DE268254D7C}.Debug|Default.Deploy.0 = Debug
+		{4E7CCF7D-D202-4D94-935B-7DE268254D7C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{4E7CCF7D-D202-4D94-935B-7DE268254D7C}.DebugLocal|Default.Build.0 = DebugLocal
+		{4E7CCF7D-D202-4D94-935B-7DE268254D7C}.Release|Default.ActiveCfg = Release
+		{4E7CCF7D-D202-4D94-935B-7DE268254D7C}.Release|Default.Build.0 = Release
+		{4E7CCF7D-D202-4D94-935B-7DE268254D7C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

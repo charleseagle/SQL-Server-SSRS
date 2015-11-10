@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>dscMovies</DataSourceReference>
+      <CommandText>SELECT        tblDirector.DirectorName, tblFilm.FilmName, tblFilm.FilmRunTimeMinutes
+FROM            tblFilm INNER JOIN
+                         tblDirector ON tblFilm.FilmDirectorID = tblDirector.DirectorID</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="DirectorName">
+        <DataField>DirectorName</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="FilmName">
+        <DataField>FilmName</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="FilmRunTimeMinutes">
+        <DataField>FilmRunTimeMinutes</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

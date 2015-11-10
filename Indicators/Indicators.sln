@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Indicators", "Indicators\Indicators.rptproj", "{E5559416-4252-4744-9425-F1A77A5B5615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5559416-4252-4744-9425-F1A77A5B5615}.Debug|Default.ActiveCfg = Debug
+		{E5559416-4252-4744-9425-F1A77A5B5615}.Debug|Default.Build.0 = Debug
+		{E5559416-4252-4744-9425-F1A77A5B5615}.Debug|Default.Deploy.0 = Debug
+		{E5559416-4252-4744-9425-F1A77A5B5615}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E5559416-4252-4744-9425-F1A77A5B5615}.DebugLocal|Default.Build.0 = DebugLocal
+		{E5559416-4252-4744-9425-F1A77A5B5615}.Release|Default.ActiveCfg = Release
+		{E5559416-4252-4744-9425-F1A77A5B5615}.Release|Default.Build.0 = Release
+		{E5559416-4252-4744-9425-F1A77A5B5615}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

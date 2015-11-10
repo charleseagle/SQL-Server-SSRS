@@ -1,0 +1,5 @@
+E:\SQL_Server_Practice\SSRS\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\SQL_Server_Practice\SSRS\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\SQL_Server_Practice\SSRS\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\SQL_Server_Practice\SSRS\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\SQL_Server_Practice\SSRS\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
