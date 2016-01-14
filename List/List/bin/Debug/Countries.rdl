@@ -332,7 +332,7 @@ ORDER BY tblCountry.CountryName</CommandText>
                               </ChartLegends>
                               <ChartTitles>
                                 <ChartTitle Name="Default">
-                                  <Caption>Chart Title</Caption>
+                                  <Caption>Box Office Revenue</Caption>
                                   <Style>
                                     <BackgroundGradientType>None</BackgroundGradientType>
                                     <FontWeight>Bold</FontWeight>

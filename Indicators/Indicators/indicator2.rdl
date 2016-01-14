@@ -154,7 +154,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>Indicator</Value>
                                   <Style>
                                     <Color>White</Color>
                                   </Style>

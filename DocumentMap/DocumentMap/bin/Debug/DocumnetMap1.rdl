@@ -876,7 +876,7 @@ FROM            tblDirector INNER JOIN
                       <FontSize>8pt</FontSize>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption>Axis Title</Caption>
+                      <Caption>Film Name</Caption>
                       <Style>
                         <FontSize>8pt</FontSize>
                       </Style>
@@ -951,7 +951,7 @@ FROM            tblDirector INNER JOIN
                       <FontSize>8pt</FontSize>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption>Axis Title</Caption>
+                      <Caption>Film Run Time (Minutes)</Caption>
                       <Style>
                         <FontSize>8pt</FontSize>
                       </Style>
@@ -1023,36 +1023,6 @@ FROM            tblDirector INNER JOIN
                 </Style>
               </ChartArea>
             </ChartAreas>
-            <ChartLegends>
-              <ChartLegend Name="Default">
-                <Style>
-                  <BackgroundGradientType>None</BackgroundGradientType>
-                  <FontSize>8pt</FontSize>
-                </Style>
-                <Position>TopCenter</Position>
-                <ChartLegendTitle>
-                  <Caption />
-                  <Style>
-                    <FontSize>8pt</FontSize>
-                    <FontWeight>Bold</FontWeight>
-                    <TextAlign>Center</TextAlign>
-                  </Style>
-                </ChartLegendTitle>
-                <HeaderSeparatorColor>Black</HeaderSeparatorColor>
-                <ColumnSeparatorColor>Black</ColumnSeparatorColor>
-              </ChartLegend>
-            </ChartLegends>
-            <ChartTitles>
-              <ChartTitle Name="Default">
-                <Caption>Chart Title</Caption>
-                <Style>
-                  <BackgroundGradientType>None</BackgroundGradientType>
-                  <FontWeight>Bold</FontWeight>
-                  <TextAlign>General</TextAlign>
-                  <VerticalAlign>Top</VerticalAlign>
-                </Style>
-              </ChartTitle>
-            </ChartTitles>
             <Palette>BrightPastel</Palette>
             <ChartBorderSkin>
               <Style>
